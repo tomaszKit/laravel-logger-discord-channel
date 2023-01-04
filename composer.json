@@ -15,10 +15,10 @@
   ],
   "require": {
     "php": "^8.0",
-    "illuminate/contracts": "~7.0|~8.0|v7.0.0|~v7.0.8",
-    "illuminate/queue": "~7.0|~8.0",
-    "illuminate/support": "~7.0|~8.0",
-    "guzzlehttp/guzzle": "^7.0.1|^7.5.0",
+    "illuminate/contracts": "~5.5|~7.0|~8.0",
+    "illuminate/queue": "~5.5|~7.0|~8.0",
+    "illuminate/support": "~5.5|~7.0|~8.0",
+    "guzzlehttp/guzzle": "^6.3|^7.0.1",
     "monolog/monolog": "~1.12|^2.0"
   },
   "autoload": {
