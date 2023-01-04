@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": "^8.0",
-    "illuminate/contracts": "~5.5|~7.0|~8.0|*",
+    "illuminate/contracts": "~5.5|^7.0|^v7.0.0|^v8.0.0|",
     "illuminate/queue": "~5.5|~7.0|~8.0",
     "illuminate/support": "~5.5|~7.0|~8.0",
     "guzzlehttp/guzzle": "^6.3|^7.0.1",
